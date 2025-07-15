@@ -1,0 +1,23 @@
+# Visual Studio项目文件
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.pdb
+*.ipch
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.exp
+*.ilk
+*.cache
+*.log
+/build/
+/Debug/
+/Release/
+/x64/
+/x86/

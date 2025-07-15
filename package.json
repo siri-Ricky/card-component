@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/animations": "^20.1.0",
+    "@ionic/pwa-elements": "^3.3.0"
+  }
+}
